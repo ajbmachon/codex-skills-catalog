@@ -1,9 +1,17 @@
 # macOS
 .DS_Store
 
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Python
 __pycache__/
 *.pyc
+.venv/
+venv/
 
 # Node/runtime artifacts
 node_modules/
@@ -13,3 +21,10 @@ tmp/
 
 # Logs
 *.log
+
+# Environment/config secrets
+.env
+.env.*
+
+# OS junk
+Thumbs.db
