@@ -1,0 +1,4 @@
+interface:
+  display_name: "Securing AI"
+  short_description: "Assess prompt-injection risk and defenses safely"
+  default_prompt: "Use securing-ai mode to assess this AI system and provide defensive recommendations."

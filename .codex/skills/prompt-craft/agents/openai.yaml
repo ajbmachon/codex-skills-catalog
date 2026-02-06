@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Craft"
+  short_description: "Analyze, craft, and optimize prompts by mode"
+  default_prompt: "Use prompt-craft to improve this prompt for quality and reliability."

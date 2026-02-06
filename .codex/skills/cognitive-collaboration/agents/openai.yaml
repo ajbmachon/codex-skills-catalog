@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cognitive Collaboration"
+  short_description: "Stress-test decisions with 12 thinking modes"
+  default_prompt: "Run cognitive-collaboration mode to challenge my idea and surface blind spots."

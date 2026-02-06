@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node/runtime artifacts
+node_modules/
+profiles/
+tmp/
+.browser-data/
+
+# Logs
+*.log

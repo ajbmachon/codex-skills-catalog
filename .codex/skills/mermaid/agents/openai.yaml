@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mermaid"
+  short_description: "Create and validate Mermaid diagrams reliably"
+  default_prompt: "Use mermaid skill to create a valid diagram for this system flow."

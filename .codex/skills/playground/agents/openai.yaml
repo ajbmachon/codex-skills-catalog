@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playground"
+  short_description: "Build interactive HTML playgrounds with sync output"
+  default_prompt: "Use playground skill to create a single-file interactive HTML tool for this task."

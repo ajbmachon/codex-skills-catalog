@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systematic Debugging"
+  short_description: "Debug systematically from root cause to fix"
+  default_prompt: "Use systematic-debugging to diagnose this issue before proposing a fix."

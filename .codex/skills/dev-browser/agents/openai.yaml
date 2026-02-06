@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Browser"
+  short_description: "Automate browser tasks with persistent page state"
+  default_prompt: "Use dev-browser to automate this website task step by step."

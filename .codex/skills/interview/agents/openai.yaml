@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview"
+  short_description: "Turn rough ideas into implementation-ready specs"
+  default_prompt: "Run interview mode to convert this idea into an implementation-ready technical spec."

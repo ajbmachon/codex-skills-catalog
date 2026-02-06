@@ -1,0 +1,48 @@
+manifest_version: 1
+generated_on: 2026-02-06
+repository_version: 1.0.0
+skills:
+  - id: cognitive-collaboration
+    path: .codex/skills/cognitive-collaboration
+    version: 1.0.0
+    skill_md_sha256: a1f492f91bf8c26f263436bc0e5d2744f23b6995f2a00ed670f152446684af19
+  - id: dev-browser
+    path: .codex/skills/dev-browser
+    version: 1.0.0
+    skill_md_sha256: be2140e68c81c0a46d54eb80f0d70a278047eaf0ef976ea7e75a043b5ecf488e
+  - id: frontend-design
+    path: .codex/skills/frontend-design
+    version: 1.0.0
+    skill_md_sha256: f740b1588490fbbafa74fa21c79db6cfc28170e9f67319962af52147c8b722a3
+  - id: interview
+    path: .codex/skills/interview
+    version: 1.0.0
+    skill_md_sha256: b15b70d2e49c59d8ee5ab3b895d03eecef15584c4c57a72f279d2b681ed36471
+  - id: mermaid
+    path: .codex/skills/mermaid
+    version: 1.0.0
+    skill_md_sha256: c10ba9e32e0bb9f394f9941d613ef3ff807f636041400a6798edb7bf4640c724
+  - id: playground
+    path: .codex/skills/playground
+    version: 1.0.0
+    skill_md_sha256: 841bb59981467819bd1c85fe6809e23a4e9121a1c5131c0399ac68e788baa5f0
+  - id: prompt-craft
+    path: .codex/skills/prompt-craft
+    version: 1.0.0
+    skill_md_sha256: 9cf0e453fed6e9108f2c810996418298df82c9c12110c9092ec4f3a36d2e0b8c
+  - id: securing-ai
+    path: .codex/skills/securing-ai
+    version: 1.0.0
+    skill_md_sha256: cfbd22f0ac3418c5b90551e5781f61c4c232a4ed5698678d4fe96393fb3522c1
+  - id: systematic-debugging
+    path: .codex/skills/systematic-debugging
+    version: 1.0.0
+    skill_md_sha256: 88c15b55027aa06f299737be38073eff3c5e415f89a6a7f6ba7e7ef8bef77a00
+  - id: .system__skill-creator
+    path: .codex/skills/.system/skill-creator
+    version: 1.0.0
+    skill_md_sha256: 01ce7904b391dd4c7b1332cf3738dfa63f35bfab89cd9e1056f20c712d30db7c
+  - id: .system__skill-installer
+    path: .codex/skills/.system/skill-installer
+    version: 1.0.0
+    skill_md_sha256: a111aaf2583664a32d1f136cd72415ed5b8f71bfe6a46c5ce9dd819ad6bae72b
