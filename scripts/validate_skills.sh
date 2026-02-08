@@ -9,6 +9,7 @@ LINTER="$SKILLS_ROOT/.system/skill-creator/scripts/lint_skills.py"
 NON_SYSTEM_SKILLS=(
   cognitive-collaboration
   dev-browser
+  evals
   frontend-design
   interview
   mermaid

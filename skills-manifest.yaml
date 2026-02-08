@@ -1,6 +1,6 @@
 manifest_version: 1
-generated_on: 2026-02-06
-repository_version: 1.0.0
+generated_on: 2026-02-09
+repository_version: 1.1.0
 skills:
   - id: cognitive-collaboration
     path: .codex/skills/cognitive-collaboration
@@ -10,6 +10,10 @@ skills:
     path: .codex/skills/dev-browser
     version: 1.0.0
     skill_md_sha256: be2140e68c81c0a46d54eb80f0d70a278047eaf0ef976ea7e75a043b5ecf488e
+  - id: evals
+    path: .codex/skills/evals
+    version: 1.0.0
+    skill_md_sha256: 1d78373c202145a9147f442ac65ebdcce02fb3a6d3e059b4c094c45fccc75c44
   - id: frontend-design
     path: .codex/skills/frontend-design
     version: 1.0.0
@@ -17,7 +21,7 @@ skills:
   - id: interview
     path: .codex/skills/interview
     version: 1.0.0
-    skill_md_sha256: b15b70d2e49c59d8ee5ab3b895d03eecef15584c4c57a72f279d2b681ed36471
+    skill_md_sha256: 0e2bb0f7c4b115eab5ca7e2d193317b8e0bff19638ea54b9265ad2167bb9b764
   - id: mermaid
     path: .codex/skills/mermaid
     version: 1.0.0

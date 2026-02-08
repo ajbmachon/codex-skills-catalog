@@ -14,6 +14,7 @@ Versioned skill repository for Codex, packaged in repo-scoped format under `.cod
 .codex/skills/
   cognitive-collaboration/
   dev-browser/
+  evals/
   frontend-design/
   interview/
   mermaid/

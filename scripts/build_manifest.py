@@ -11,6 +11,7 @@ MANIFEST = ROOT / "skills-manifest.yaml"
 skills = [
     "cognitive-collaboration",
     "dev-browser",
+    "evals",
     "frontend-design",
     "interview",
     "mermaid",
@@ -28,7 +29,7 @@ def sha256(path: Path) -> str:
 lines = []
 lines.append(f"manifest_version: 1")
 lines.append(f"generated_on: {date.today().isoformat()}")
-lines.append("repository_version: 1.0.0")
+lines.append("repository_version: 1.1.0")
 lines.append("skills:")
 
 for skill in skills:
