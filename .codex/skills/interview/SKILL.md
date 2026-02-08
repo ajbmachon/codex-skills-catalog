@@ -76,6 +76,8 @@ Read:
 - `references/self-challenge.md`
 
 Ask direct grouped questions (1-4 per round, usually fewer as interview converges).
+Keep questions practical: default to one-sentence questions, add brief context/options only when needed for a real decision.
+For framework/architecture choices, include short option baselines (what it is, key upside, key downside) before asking for a decision.
 Run parallel research between rounds and surface findings as they arrive.
 
 After each exchange, update working log:
@@ -134,6 +136,7 @@ Use when stakes/complexity are low.
 - Constraint capture (still required)
 - 1-2 interview rounds
 - concise spec with required sections only
+- avoid overlong prompts, but do not leave decisions under-explained
 
 Do not skip contradiction handling or constraint verification.
 
