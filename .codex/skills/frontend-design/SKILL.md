@@ -1,6 +1,6 @@
 ---
 name: frontend-design
-description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.
+description: Design and implement production-ready frontend interfaces with a clear visual direction and high UX quality, then validate responsive and accessible behavior. Use when the user asks for UI page/component/app implementation, redesigns, landing pages, dashboards, or design-system work, especially when they ask for polished, premium, or distinctive visuals.
 ---
 
 # Frontend Design Skill (GPT-5.3-Codex)

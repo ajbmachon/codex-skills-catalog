@@ -1,6 +1,6 @@
 ---
 name: dev-browser
-description: Browser automation with persistent page state. Use when users ask to navigate websites, fill forms, take screenshots, extract web data, test web apps, or automate browser workflows. Trigger phrases include "go to [url]", "click on", "fill out the form", "take a screenshot", "scrape", "automate", "test the website", "log into", or any browser interaction request.
+description: Persistent Playwright browser automation for live websites and web apps, including navigation, clicking, form filling, screenshots, ARIA-snapshot element discovery, scraping, and iterative browser-flow testing. Use when the user asks to interact with a webpage (for example go to a URL, click elements, log in, fill forms, capture screenshots, extract page data, or test a web workflow).
 ---
 
 # Dev Browser Skill

@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes - four-phase framework (root cause investigation, pattern analysis, hypothesis testing, implementation) that ensures understanding before attempting solutions
+description: Four-phase debugging framework that enforces root-cause investigation before fixes: evidence gathering, pattern comparison, hypothesis testing, then implementation and verification. Use for bugs, failing tests, flaky behavior, performance problems, and build or integration failures, especially when quick-fix guessing has already failed.
 ---
 
 # Systematic Debugging

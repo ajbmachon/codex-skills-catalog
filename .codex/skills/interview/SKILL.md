@@ -1,6 +1,6 @@
 ---
 name: interview
-description: Run a structured interview that turns rough ideas into implementation-ready specs through challenge, constraint capture, and verification.
+description: Run a structured discovery interview that turns ambiguous ideas into implementation-ready specifications through research, devil's-advocate challenge, explicit constraint capture, and verification loops. Use when the user asks for specs, requirements, architecture planning, feature scoping, or interview-style clarification before implementation.
 ---
 
 # Interview Skill (Codex Operator Mode)

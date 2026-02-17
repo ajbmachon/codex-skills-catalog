@@ -1,6 +1,6 @@
 ---
 name: skill-creator
-description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.
+description: Design, create, and iteratively improve Codex skills with a deterministic workflow covering examples, reusable resources, SKILL.md frontmatter, validation, and linting. Use when a user asks to create a new skill, update or refactor an existing skill, improve triggering/frontmatter quality, or package scripts/references/assets for repeatable agent workflows.
 metadata:
   short-description: Create or update a skill
 ---

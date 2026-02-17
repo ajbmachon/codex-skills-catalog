@@ -1,6 +1,6 @@
 ---
 name: evals
-description: Build and run agent evaluations for coding/research/chat workflows. Use when user asks to evaluate quality, run regressions, benchmark prompts/models, compare outputs, or convert failures into repeatable tasks.
+description: Build, run, and iterate evaluation suites for Codex workflows using suites, task YAML, and graders, including regression tracking and failure-to-task conversion. Use when the user asks to run evals, benchmark agents or prompts or models, compare outputs, detect quality regressions, or convert real failures into repeatable tests.
 ---
 
 # Evals

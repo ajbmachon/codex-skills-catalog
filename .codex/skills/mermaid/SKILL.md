@@ -1,6 +1,6 @@
 ---
 name: mermaid
-description: Create and validate Mermaid diagrams (flowcharts, sequence, class, ER, state, Gantt). Prevents common syntax errors like parentheses in labels, unescaped quotes, wrong arrows, and special characters. Includes validation workflow to verify diagrams before use.
+description: Author and validate Mermaid diagram code with syntax-safe patterns for flowchart, sequence, class, state, ER, and related diagram types, including troubleshooting parser failures before delivery. Use when the user asks to create, fix, convert, or debug Mermaid diagrams.
 ---
 
 # Mermaid Diagram Skill

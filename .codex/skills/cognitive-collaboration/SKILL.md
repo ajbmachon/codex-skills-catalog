@@ -1,6 +1,6 @@
 ---
 name: cognitive-collaboration
-description: Twelve thinking modes for stress-testing ideas and expanding perspectives. Use when user says "poke holes", "challenge this", "what am I missing", or needs decision support.
+description: Twelve structured thinking modes for decision stress-testing, blind-spot discovery, and option generation (for example red-team, pre-mortem, assumptions, scenarios, values, synthesis). Use when the user asks to poke holes, challenge a plan, pressure-test tradeoffs, explore alternatives, or asks what they are missing in a decision.
 ---
 
 # Cognitive Collaboration

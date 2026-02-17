@@ -1,6 +1,6 @@
 ---
 name: skill-installer
-description: Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).
+description: Install and manage Codex skills from OpenAI curated or experimental catalogs and from arbitrary GitHub repositories or paths via installer scripts. Use when a user asks to list installable skills, install one or more skills, reinstall or replace an existing skill, or fetch skills from public/private GitHub repos.
 metadata:
   short-description: Install curated skills from openai/skills or other repos
 ---

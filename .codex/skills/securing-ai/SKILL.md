@@ -1,6 +1,6 @@
 ---
 name: securing-ai
-description: Tests AI systems for security vulnerabilities using red team attacks, blue team defense assessments, and educational deep-dives. Use when red teaming AI, assessing AI defenses, testing prompt injection, auditing LLM security, or learning about AI attack patterns.
+description: Assess LLM and agent security with prompt-injection-focused workflows: authorized red-team test planning, blue-team defense audits, educational explainers, and quick baseline probes paired with mitigations. Use when the user asks to test AI system security, audit defenses, evaluate injection risk, or learn AI attack and defense patterns.
 ---
 
 # Prompt Injection Security Testing

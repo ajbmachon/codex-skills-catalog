@@ -1,6 +1,6 @@
 ---
 name: playground
-description: Build interactive single-file HTML playgrounds with live preview, prompt generation, and Codex sync. Use when visual controls are better than plain text.
+description: Build single-file interactive HTML playgrounds with live preview, state-driven controls, generated prompt output, presets, and Codex sync hooks. Use when the user needs a visual sandbox or interactive explorer to iterate on design, data, mapping, or critique decisions that are cumbersome in plain text.
 ---
 
 # Playground Skill (GPT-5.3-Codex)
