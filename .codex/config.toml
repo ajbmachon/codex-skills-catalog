@@ -1,0 +1,42 @@
+[agents]
+max_threads = 12
+
+[agents.architect]
+description = "Designs system architecture, boundaries, and implementation plans from constraints."
+config_file = "agents/architect.toml"
+
+[agents.engineer]
+description = "Implements features with TDD discipline, clear validation, and maintainable code."
+config_file = "agents/engineer.toml"
+
+[agents.qa_tester]
+description = "Validates behavior in realistic conditions and blocks false completion claims."
+config_file = "agents/qa_tester.toml"
+
+[agents.docs_research_specialist]
+description = "Finds current official docs and usage patterns for libraries, APIs, and frameworks."
+config_file = "agents/docs_research_specialist.toml"
+
+[agents.clean_code_reviewer]
+description = "Reviews code against clean code principles with actionable remediation tiers."
+config_file = "agents/clean_code_reviewer.toml"
+
+[agents.code_architect]
+description = "Produces implementation-ready architecture blueprints grounded in existing code patterns."
+config_file = "agents/code_architect.toml"
+
+[agents.code_explorer]
+description = "Maps feature behavior end to end by tracing entrypoints, data flow, and dependencies."
+config_file = "agents/code_explorer.toml"
+
+[agents.code_reviewer]
+description = "Performs high-signal code review for correctness, risk, and project convention compliance."
+config_file = "agents/code_reviewer.toml"
+
+[agents.silent_failure_hunter]
+description = "Finds silent failures, weak error handling, and misleading fallback behavior."
+config_file = "agents/silent_failure_hunter.toml"
+
+[agents.pr_test_analyzer]
+description = "Evaluates PR test coverage quality and identifies critical behavioral coverage gaps."
+config_file = "agents/pr_test_analyzer.toml"
