@@ -26,10 +26,18 @@ skills = [
 def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
+def repository_version() -> str:
+    if not MANIFEST.exists():
+        return "1.1.0"
+    for line in MANIFEST.read_text().splitlines():
+        if line.startswith("repository_version:"):
+            return line.split(":", 1)[1].strip()
+    return "1.1.0"
+
 lines = []
 lines.append(f"manifest_version: 1")
 lines.append(f"generated_on: {date.today().isoformat()}")
-lines.append("repository_version: 1.1.0")
+lines.append(f"repository_version: {repository_version()}")
 lines.append("skills:")
 
 for skill in skills:
